@@ -1,0 +1,3 @@
+This repo was created to be used in the Laboratory Dobot Magician test-bed of the Gregor Chair assembly system
+The source code is a copy of the master of the local git repo CPuS-AS-Sim.
+To run the simulator execute the assemblysystemCore.CPAssemblySystemSim 
